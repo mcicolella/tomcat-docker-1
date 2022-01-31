@@ -23,7 +23,7 @@ This repository contains files necessary to build and run a security hardened To
 
 ## Versions
 
--   `ghcr.io/mcicolella/tomcat-docker:latest` (inherits `tomcat:8.5-jdk8-openjdk`)
+-   `ghcr.io/mcicolella/unidata-tomcat-docker:latest` (inherits `tomcat:8.5-jdk8-openjdk`)
 
 
 <a id="h-C9AD76A0"></a>
